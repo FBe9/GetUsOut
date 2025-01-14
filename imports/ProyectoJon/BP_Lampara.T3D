@@ -1,0 +1,38 @@
+Begin Object Class=/Script/Engine.Blueprint Name="BP_Lampara" ExportPath="/Script/Engine.Blueprint'/Game/VRTemplate/Blueprints/BP_Lampara.BP_Lampara'"
+   Begin Object Class=/Script/Engine.EdGraph Name="EventGraph" ExportPath="/Script/Engine.EdGraph'/Game/VRTemplate/Blueprints/BP_Lampara.BP_Lampara:EventGraph'"
+   End Object
+   Begin Object Class=/Script/Engine.EdGraph Name="UserConstructionScript" ExportPath="/Script/Engine.EdGraph'/Game/VRTemplate/Blueprints/BP_Lampara.BP_Lampara:UserConstructionScript'"
+      Begin Object Class=/Script/BlueprintGraph.K2Node_FunctionEntry Name="K2Node_FunctionEntry_0" ExportPath="/Script/BlueprintGraph.K2Node_FunctionEntry'/Game/VRTemplate/Blueprints/BP_Lampara.BP_Lampara:UserConstructionScript.K2Node_FunctionEntry_0'"
+      End Object
+   End Object
+   Begin Object Name="EventGraph" ExportPath="/Script/Engine.EdGraph'/Game/VRTemplate/Blueprints/BP_Lampara.BP_Lampara:EventGraph'"
+      Schema="/Script/CoreUObject.Class'/Script/BlueprintGraph.EdGraphSchema_K2'"
+      bAllowDeletion=False
+      GraphGuid=6B9EEAF948EDEC3B4991CD8E6939856A
+   End Object
+   Begin Object Name="UserConstructionScript" ExportPath="/Script/Engine.EdGraph'/Game/VRTemplate/Blueprints/BP_Lampara.BP_Lampara:UserConstructionScript'"
+      Begin Object Name="K2Node_FunctionEntry_0" ExportPath="/Script/BlueprintGraph.K2Node_FunctionEntry'/Game/VRTemplate/Blueprints/BP_Lampara.BP_Lampara:UserConstructionScript.K2Node_FunctionEntry_0'"
+         FunctionReference=(MemberParent="/Script/CoreUObject.Class'/Script/Engine.Actor'",MemberName="UserConstructionScript")
+         NodeGuid=0176169849F3BCD7EAA508B0A0A4FB0B
+         CustomProperties Pin (PinId=F3173004415C4F87AECDA28A7A942FAB,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Schema="/Script/CoreUObject.Class'/Script/BlueprintGraph.EdGraphSchema_K2'"
+      Nodes(0)="/Script/BlueprintGraph.K2Node_FunctionEntry'K2Node_FunctionEntry_0'"
+      bAllowDeletion=False
+      GraphGuid=190367C346FF48C15C1D028855674F1A
+   End Object
+   ParentClass="/Script/CoreUObject.Class'/Script/Engine.Actor'"
+   BlueprintSystemVersion=2
+   SimpleConstructionScript="/Script/Engine.SimpleConstructionScript'BP_Lampara_C:SimpleConstructionScript_0'"
+   UbergraphPages(0)="/Script/Engine.EdGraph'EventGraph'"
+   FunctionGraphs(0)="/Script/Engine.EdGraph'UserConstructionScript'"
+   NewVariables(0)=(VarName="Encendido",VarGuid=9BC31BDE48E46209BDAFAEB86AE1E2EB,VarType=(PinCategory="bool"),FriendlyName="Encendido",Category=NSLOCTEXT("KismetSchema", "Default", "Default"),PropertyFlags=65541)
+   CategorySorting(0)="Default"
+   CategorySorting(1)=""
+   CategorySorting(2)="Event Graph"
+   LastEditedDocuments(0)=(EditedObjectPath="/Game/VRTemplate/Blueprints/BP_Lampara.BP_Lampara:UserConstructionScript",SavedZoomAmount=1.000000)
+   LastEditedDocuments(1)=(EditedObjectPath="/Game/VRTemplate/Blueprints/BP_Lampara.BP_Lampara:EventGraph",SavedViewOffset=(X=-1076.687294,Y=209.497357),SavedZoomAmount=0.500000)
+   GeneratedClass="/Script/Engine.BlueprintGeneratedClass'BP_Lampara_C'"
+   bLegacyNeedToPurgeSkelRefs=False
+   BlueprintGuid=C24B628944672D0D17579BA842693353
+End Object

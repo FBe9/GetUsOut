@@ -1,0 +1,6 @@
+Begin Object Class=/Script/Engine.MaterialParameterCollection Name="LinternaParametros" ExportPath="/Script/Engine.MaterialParameterCollection'/Game/VRTemplate/Blueprints/LinternaParametros.LinternaParametros'"
+   StateId=7D487CC441219EEFAE8076A70A45CAB1
+   VectorParameters(0)=(ParameterName="PosicionLinterna",Id=E51963CA498DF474A20F54A989FA31F2)
+   VectorParameters(1)=(ParameterName="FordwardVector",Id=2EED2458472F9C6C601EAEACCF69F862)
+   VectorParameters(2)=(ParameterName="Linterna",Id=2B3D2FA2484DD3DB035F979D6890CCA5)
+End Object
